@@ -4,4 +4,4 @@ ignore:
       reason: linda's reason
 exclude:
   paths:
-    - package.json
+    - packages/app
