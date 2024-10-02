@@ -1,7 +1,10 @@
 ignore:
   cves:
-    'CVE-2024-45590':
-      reason: linda's reason
+    'CVE-2024-29041':
+      reason: express, subissue
+    'CVE-2021-3918':
+      reason: json-schema
 exclude:
   paths:
-    - packages.json
+    - package-lock.json
+    - package-lock.json
